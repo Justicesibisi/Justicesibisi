@@ -9,14 +9,18 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 🌍 Based in **Johannesburg, South Africa**
 - 👋 Hi, I’m **@Justicesibisi**
 - 👀 Interested in **web app, desktop app, and game development**
-- 🌱 Currently learning and **finishing up the ALX Software Engineering course**
+- 🎓 Graduate of [ALX Software Engineering](https://savanna.alxafrica.com/certificates/ZF7RYhNzTE) & IT Varsity Full Stack Development
 - 🎓 [**Oracle Certified Java Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4DE99607708FDA23C97D14833BAB8B86667BAACE6D6A7174910D8AA94AE711E2)
 - 🤝 Looking to **collaborate on web development projects**
 - 📫 Reach me at [justicesibisi@outlook.com](mailto:justicesibisi@outlook.com) or on [LinkedIn](https://www.linkedin.com/in/justice-sibisi-547017141/)
 
-Certified as an Oracle Certified Associate, Java SE 8 Programmer, and a graduate of the ALX Software Engineering program, I bring technical proficiency in Java, JavaScript, Shell scripting, and Git. My previous experience in finance and customer service has helped me develop strong problem-solving abilities, effective communication, and a deep understanding of user needs—skills I now apply to software development.
+---
 
-I am passionate about creating efficient, scalable solutions and eager to tackle new challenges that allow me to grow professionally. I look forward to contributing to dynamic teams and continuously enhancing my technical expertise in the tech industry.
+I'm a passionate software developer based in Johannesburg, South Africa, with a keen interest in building web, desktop, and game applications. As a proud graduate of ALX Software Engineering and IT Varsity Full Stack Development, and an Oracle Certified Java Associate, I've developed a strong foundation in both back-end and front-end technologies.
+
+My stack spans Laravel, Java, .NET, Javascript, Shell scripting, and more. I love tackling complex problems and creating efficient, scalable solutions. My background in finance and customer service has sharpened my problem-solving, communication, and empathy for users—skills I bring into every project.
+
+I'm always eager to collaborate on exciting web projects, learn new technologies, and grow alongside dynamic teams. Let's build something awesome together!
 
 ---
 
@@ -24,10 +28,10 @@ I am passionate about creating efficient, scalable solutions and eager to tackle
 
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Java-007396?logo=java-coffee-cup&logoColor=white&style=for-the-badge" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
