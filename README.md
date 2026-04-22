@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 - 👀 Interested in **web app, desktop app, and game development**
 - 🎓 Graduate of [ALX Software Engineering](https://savanna.alxafrica.com/certificates/ZF7RYhNzTE) & IT Varsity Full Stack Development
 - 🎓 [**Oracle Certified Java Associate**](https://catalog-education.oracle.com/ords/certview/sharebadge?id=4DE99607708FDA23C97D14833BAB8B86667BAACE6D6A7174910D8AA94AE711E2)
+- 🎓 [**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/users/justicesibisi-0911/credentials/aff0a52555615bcd)
 - 🤝 Looking to **collaborate on web development projects**
 - 📫 Reach me at [justicesibisi@outlook.com](mailto:justicesibisi@outlook.com) or on [LinkedIn](https://www.linkedin.com/in/justice-sibisi-547017141/)
 
