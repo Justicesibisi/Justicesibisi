@@ -17,6 +17,14 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ---
 
+### 💼 Professional Highlights
+
+> 🚀 **Recent Roles**
+> - **Sampra** — .NET Consultant (ASP.NET MVC, C#, multi-role systems)
+> - **Ecoosty** — Software Developer (Laravel, Livewire, responsive UI workflows)
+>
+> 📈 **Impact Highlight:** Optimized SQL stored procedures for inventory, incident, and approval reporting, improving data retrieval performance by **40%**.
+
 I'm a passionate software developer based in Johannesburg, South Africa, with a keen interest in building web, desktop, and game applications. As a proud graduate of ALX Software Engineering and IT Varsity Full Stack Development, and an Oracle Certified Java Associate, I've developed a strong foundation in both back-end and front-end technologies.
 
 My stack spans Laravel, Java, .NET, Javascript, Shell scripting, and more. I love tackling complex problems and creating efficient, scalable solutions. My background in finance and customer service has sharpened my problem-solving, communication, and empathy for users—skills I bring into every project.
@@ -24,6 +32,14 @@ My stack spans Laravel, Java, .NET, Javascript, Shell scripting, and more. I lov
 I'm always eager to collaborate on exciting web projects, learn new technologies, and grow alongside dynamic teams. Let's build something awesome together!
 
 ---
+
+### 🧠 Professional Expertise
+
+- ⚙️ **Backend:** C#, ASP.NET MVC, .NET Core, PHP, Laravel, Livewire, REST APIs  
+- 🎨 **Frontend:** React, Razor Pages, HTML, CSS, JavaScript, Data Tables  
+- 🗄️ **Database:** SQL Server, MySQL, Stored Procedures, Query Optimization  
+- 🛠️ **DevOps & Tools:** Azure DevOps, Git, GitHub, Shell Scripting, Microsoft 365  
+- 📐 **Methodologies:** Agile, Clean Architecture, OOP, MVC, Component-Driven Development
 
 ### Technologies & Tools
 
@@ -47,6 +63,12 @@ I'm always eager to collaborate on exciting web projects, learn new technologies
 </p>
 
 ---
+
+### 🌐 Portfolio Showcase
+
+<p align="center">
+  <a href="https://justicesibisi.github.io/My-Portfolio/"><img src="https://img.shields.io/badge/Explore%20My%20Portfolio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Explore My Portfolio"></a>
+</p>
 
 ### GitHub Stats
 
