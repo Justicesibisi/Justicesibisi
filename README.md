@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 > - **Sampra** — .NET Consultant (ASP.NET MVC, C#, multi-role systems)
 > - **Ecoosty** — Software Developer (Laravel, Livewire, responsive UI workflows)
 >
-> 📈 **Impact Highlight:** Optimized SQL stored procedures and improved data retrieval performance by **40%**.
+> 📈 **Impact Highlight:** Optimized SQL stored procedures for inventory, incident, and approval reporting, improving data retrieval performance by **40%**.
 
 I'm a passionate software developer based in Johannesburg, South Africa, with a keen interest in building web, desktop, and game applications. As a proud graduate of ALX Software Engineering and IT Varsity Full Stack Development, and an Oracle Certified Java Associate, I've developed a strong foundation in both back-end and front-end technologies.
 
